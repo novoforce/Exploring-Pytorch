@@ -1,3 +1,3 @@
 # Exploring-Pytorch
 
-This repository is basically a clone of this repository https://github.com/lyhue1991/eat_pytorch_in_20_days#how-to-eat-pytorch-in-20-days- where I have translated into English from Mandarin.
+In this repository I will be sharing the code files which I had used as part of my exploration work for learning and understanding the Pytorch Framework 
